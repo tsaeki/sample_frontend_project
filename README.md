@@ -21,3 +21,5 @@ $ npm run build
 
 ```
 
+# Reference
+https://webpack.js.org/concepts/
