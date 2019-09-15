@@ -1,4 +1,4 @@
-# Sample Frontend Pfoject
+# Sample Frontend Project
 
 ## Create project and test run
 ```
